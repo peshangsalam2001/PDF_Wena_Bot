@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.21.0
+Flask==3.0.3
+Pillow==10.4.0
+PyMuPDF==1.24.10
