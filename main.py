@@ -12,7 +12,7 @@ import fitz  # PyMuPDF
 from flask import Flask
 
 # === CONFIG ===
-API_TOKEN = 'YOUR_TOKEN_HERE'
+API_TOKEN = '7797825619:AAFpZfVlP74eIxJCFG9VKV3GlnGObMr-A0o'
 CHANNEL_USERNAME = '@PeshangAcademy'
 ADMIN_CONTACT_LINK = 'https://t.me/MasterLordBoss'
 BOT_OWNER_ID = 1908245207
